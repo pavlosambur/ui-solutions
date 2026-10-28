@@ -2,7 +2,7 @@ type IconProps = {
     colour?: string;
 };
 
-const IconStar: React.FC<IconProps> = ({ colour = "#FFFFFF" }) => {
+export const IconStar: React.FC<IconProps> = ({ colour = "#FFFFFF" }) => {
     return (
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
             <path
@@ -11,8 +11,4 @@ const IconStar: React.FC<IconProps> = ({ colour = "#FFFFFF" }) => {
             />
         </svg>
     );
-};
-
-export const Icon = {
-    Star: IconStar,
 };

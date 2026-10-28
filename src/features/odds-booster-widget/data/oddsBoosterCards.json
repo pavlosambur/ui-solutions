@@ -1,0 +1,852 @@
+[
+  {
+    "competitors": [
+      {
+        "name": "Spain",
+        "imageSrc": "taxonomyicons/competitors/1169-164w"
+      },
+      {
+        "name": "Belgium",
+        "imageSrc": "taxonomyicons/competitors/4726-164w"
+      }
+    ],
+    "outcomeName": "Belgium (+5.5)",
+    "marketName": "Corners. Handicap",
+    "eventInfo": "Today, 22:00, Spain × Belgium",
+    "previousOdd": "1.24",
+    "promoOdd": "1.30"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Spain",
+        "imageSrc": "taxonomyicons/competitors/1169-164w"
+      },
+      {
+        "name": "Belgium",
+        "imageSrc": "taxonomyicons/competitors/4726-164w"
+      }
+    ],
+    "outcomeName": "Over 7.5",
+    "marketName": "Corners. Total",
+    "eventInfo": "Today, 22:00, Spain × Belgium",
+    "previousOdd": "1.19",
+    "promoOdd": "1.24"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Argentina",
+        "imageSrc": "taxonomyicons/competitors/14478-164w"
+      },
+      {
+        "name": "Switzerland",
+        "imageSrc": "taxonomyicons/competitors/4868-164w"
+      }
+    ],
+    "outcomeName": "Argentina (0)",
+    "marketName": "Handicap",
+    "eventInfo": "Jul 12, 04:00, Argentina × Switzerland",
+    "previousOdd": "1.24",
+    "promoOdd": "1.30"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Argentina",
+        "imageSrc": "taxonomyicons/competitors/14478-164w"
+      },
+      {
+        "name": "Switzerland",
+        "imageSrc": "taxonomyicons/competitors/4868-164w"
+      }
+    ],
+    "outcomeName": "Under 3.5",
+    "marketName": "Total",
+    "eventInfo": "Jul 12, 04:00, Argentina × Switzerland",
+    "previousOdd": "1.23",
+    "promoOdd": "1.26"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Norway",
+        "imageSrc": "taxonomyicons/competitors/3779-164w"
+      },
+      {
+        "name": "England",
+        "imageSrc": "taxonomyicons/competitors/612-164w"
+      }
+    ],
+    "outcomeName": "Norway (+1.5)",
+    "marketName": "Handicap",
+    "eventInfo": "Jul 12, 00:00, Norway × England",
+    "previousOdd": "1.32",
+    "promoOdd": "1.37"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Norway",
+        "imageSrc": "taxonomyicons/competitors/3779-164w"
+      },
+      {
+        "name": "England",
+        "imageSrc": "taxonomyicons/competitors/612-164w"
+      }
+    ],
+    "outcomeName": "Over 1.5",
+    "marketName": "Total",
+    "eventInfo": "Jul 12, 00:00, Norway × England",
+    "previousOdd": "1.23",
+    "promoOdd": "1.26"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Ajax",
+        "imageSrc": "taxonomyicons/competitors/3436-164w"
+      },
+      {
+        "name": "AEK Larnaca",
+        "imageSrc": "taxonomyicons/competitors/2033-164w"
+      }
+    ],
+    "outcomeName": "Ajax (0)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 19:00, Ajax × AEK Larnaca",
+    "previousOdd": "1.32",
+    "promoOdd": "1.38"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Ajax",
+        "imageSrc": "taxonomyicons/competitors/3436-164w"
+      },
+      {
+        "name": "AEK Larnaca",
+        "imageSrc": "taxonomyicons/competitors/2033-164w"
+      }
+    ],
+    "outcomeName": "Under 4.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 19:00, Ajax × AEK Larnaca",
+    "previousOdd": "1.27",
+    "promoOdd": "1.32"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Viktoria Plzen",
+        "imageSrc": "taxonomyicons/competitors/88966-164w"
+      },
+      {
+        "name": "Young Boys",
+        "imageSrc": "taxonomyicons/competitors/2274-164w"
+      }
+    ],
+    "outcomeName": "Viktoria Plzen (+1)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 16:30, Viktoria Plzen × Young Boys",
+    "previousOdd": "1.30",
+    "promoOdd": "1.35"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Viktoria Plzen",
+        "imageSrc": "taxonomyicons/competitors/88966-164w"
+      },
+      {
+        "name": "Young Boys",
+        "imageSrc": "taxonomyicons/competitors/2274-164w"
+      }
+    ],
+    "outcomeName": "Under 5.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 16:30, Viktoria Plzen × Young Boys",
+    "previousOdd": "1.17",
+    "promoOdd": "1.21"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Legia Warsaw",
+        "imageSrc": "taxonomyicons/competitors/19260-164w"
+      },
+      {
+        "name": "Trencin",
+        "imageSrc": "taxonomyicons/competitors/89175-164w"
+      }
+    ],
+    "outcomeName": "Trencin (+2.5)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 17:00, Legia Warsaw × Trencin",
+    "previousOdd": "1.35",
+    "promoOdd": "1.40"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Legia Warsaw",
+        "imageSrc": "taxonomyicons/competitors/19260-164w"
+      },
+      {
+        "name": "Trencin",
+        "imageSrc": "taxonomyicons/competitors/89175-164w"
+      }
+    ],
+    "outcomeName": "Under 4.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 17:00, Legia Warsaw × Trencin",
+    "previousOdd": "1.31",
+    "promoOdd": "1.36"
+  },
+  {
+    "competitors": [
+      {
+        "name": "WSG Tirol",
+        "imageSrc": "taxonomyicons/competitors/89363-164w"
+      },
+      {
+        "name": "Polissya Zhytomyr",
+        "imageSrc": "taxonomyicons/competitors/95703-164w"
+      }
+    ],
+    "outcomeName": "Polissya Zhytomyr (+1)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 19:00, WSG Tirol × Polissya Zhytomyr",
+    "previousOdd": "1.33",
+    "promoOdd": "1.38"
+  },
+  {
+    "competitors": [
+      {
+        "name": "WSG Tirol",
+        "imageSrc": "taxonomyicons/competitors/89363-164w"
+      },
+      {
+        "name": "Polissya Zhytomyr",
+        "imageSrc": "taxonomyicons/competitors/95703-164w"
+      }
+    ],
+    "outcomeName": "Over 2",
+    "marketName": "Total",
+    "eventInfo": "Today, 19:00, WSG Tirol × Polissya Zhytomyr",
+    "previousOdd": "1.28",
+    "promoOdd": "1.33"
+  },
+  {
+    "competitors": [
+      {
+        "name": "SV Sandhausen",
+        "imageSrc": "taxonomyicons/competitors/89161-164w"
+      },
+      {
+        "name": "Kaiserslautern",
+        "imageSrc": "taxonomyicons/competitors/19270-164w"
+      }
+    ],
+    "outcomeName": "Kaiserslautern (0)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 16:30, SV Sandhausen × Kaiserslautern",
+    "previousOdd": "1.21",
+    "promoOdd": "1.26"
+  },
+  {
+    "competitors": [
+      {
+        "name": "SV Sandhausen",
+        "imageSrc": "taxonomyicons/competitors/89161-164w"
+      },
+      {
+        "name": "Kaiserslautern",
+        "imageSrc": "taxonomyicons/competitors/19270-164w"
+      }
+    ],
+    "outcomeName": "Under 4.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 16:30, SV Sandhausen × Kaiserslautern",
+    "previousOdd": "1.30",
+    "promoOdd": "1.35"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Lugano",
+        "imageSrc": "taxonomyicons/competitors/19975-164w"
+      },
+      {
+        "name": "Heidenheim",
+        "imageSrc": "taxonomyicons/competitors/89143-164w"
+      }
+    ],
+    "outcomeName": "Lugano (+1.5)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 19:00, Lugano × Heidenheim",
+    "previousOdd": "1.28",
+    "promoOdd": "1.32"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Lugano",
+        "imageSrc": "taxonomyicons/competitors/19975-164w"
+      },
+      {
+        "name": "Heidenheim",
+        "imageSrc": "taxonomyicons/competitors/89143-164w"
+      }
+    ],
+    "outcomeName": "Under 4.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 19:00, Lugano × Heidenheim",
+    "previousOdd": "1.22",
+    "promoOdd": "1.26"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Austria Lustenau",
+        "imageSrc": "taxonomyicons/competitors/89372-164w"
+      },
+      {
+        "name": "FC Aarau",
+        "imageSrc": "taxonomyicons/competitors/89644-164w"
+      }
+    ],
+    "outcomeName": "FC Aarau (+1.5)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 18:00, Austria Lustenau × FC Aarau",
+    "previousOdd": "1.34",
+    "promoOdd": "1.39"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Austria Lustenau",
+        "imageSrc": "taxonomyicons/competitors/89372-164w"
+      },
+      {
+        "name": "FC Aarau",
+        "imageSrc": "taxonomyicons/competitors/89644-164w"
+      }
+    ],
+    "outcomeName": "Under 4",
+    "marketName": "Total",
+    "eventInfo": "Today, 18:00, Austria Lustenau × FC Aarau",
+    "previousOdd": "1.29",
+    "promoOdd": "1.34"
+  },
+  {
+    "competitors": [
+      {
+        "name": "NK Maribor",
+        "imageSrc": "taxonomyicons/competitors/19329-164w"
+      },
+      {
+        "name": "Charlton",
+        "imageSrc": "taxonomyicons/competitors/90541-164w"
+      }
+    ],
+    "outcomeName": "Charlton (0)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 19:00, NK Maribor × Charlton",
+    "previousOdd": "1.69",
+    "promoOdd": "1.77"
+  },
+  {
+    "competitors": [
+      {
+        "name": "NK Maribor",
+        "imageSrc": "taxonomyicons/competitors/19329-164w"
+      },
+      {
+        "name": "Charlton",
+        "imageSrc": "taxonomyicons/competitors/90541-164w"
+      }
+    ],
+    "outcomeName": "Under 3.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 19:00, NK Maribor × Charlton",
+    "previousOdd": "1.42",
+    "promoOdd": "1.49"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Livingston",
+        "imageSrc": "taxonomyicons/competitors/88784-164w"
+      },
+      {
+        "name": "Hearts",
+        "imageSrc": "taxonomyicons/competitors/89647-164w"
+      }
+    ],
+    "outcomeName": "Livingston (+1.5)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 21:45, Livingston × Hearts",
+    "previousOdd": "1.35",
+    "promoOdd": "1.41"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Livingston",
+        "imageSrc": "taxonomyicons/competitors/88784-164w"
+      },
+      {
+        "name": "Hearts",
+        "imageSrc": "taxonomyicons/competitors/89647-164w"
+      }
+    ],
+    "outcomeName": "Under 4",
+    "marketName": "Total",
+    "eventInfo": "Today, 21:45, Livingston × Hearts",
+    "previousOdd": "1.24",
+    "promoOdd": "1.29"
+  },
+  {
+    "competitors": [
+      {
+        "name": "SV Donau Klagenfurt",
+        "imageSrc": "taxonomyicons/competitors/240864-164w"
+      },
+      {
+        "name": "Atus Ferlach",
+        "imageSrc": "taxonomyicons/competitors/96975-164w"
+      }
+    ],
+    "outcomeName": "Atus Ferlach (+2)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 18:00, SV Donau Klagenfurt × Atus Ferlach",
+    "previousOdd": "2.00",
+    "promoOdd": "2.11"
+  },
+  {
+    "competitors": [
+      {
+        "name": "SV Donau Klagenfurt",
+        "imageSrc": "taxonomyicons/competitors/240864-164w"
+      },
+      {
+        "name": "Atus Ferlach",
+        "imageSrc": "taxonomyicons/competitors/96975-164w"
+      }
+    ],
+    "outcomeName": "Over 3.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 18:00, SV Donau Klagenfurt × Atus Ferlach",
+    "previousOdd": "1.56",
+    "promoOdd": "1.64"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Spartak Trnava",
+        "imageSrc": "taxonomyicons/competitors/89177-164w"
+      },
+      {
+        "name": "Hanacka Slavia Kromeriz",
+        "imageSrc": "taxonomyicons/competitors/88977-164w"
+      }
+    ],
+    "outcomeName": "Spartak Trnava (0)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 18:00, Spartak Trnava × Hanacka Slavia Kromeriz",
+    "previousOdd": "2.08",
+    "promoOdd": "2.19"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Spartak Trnava",
+        "imageSrc": "taxonomyicons/competitors/89177-164w"
+      },
+      {
+        "name": "Hanacka Slavia Kromeriz",
+        "imageSrc": "taxonomyicons/competitors/88977-164w"
+      }
+    ],
+    "outcomeName": "Under 3.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 18:00, Spartak Trnava × Hanacka Slavia Kromeriz",
+    "previousOdd": "1.42",
+    "promoOdd": "1.49"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Maidenhead",
+        "imageSrc": "taxonomyicons/competitors/90658-164w"
+      },
+      {
+        "name": "Milton Keynes Dons",
+        "imageSrc": "taxonomyicons/competitors/90564-164w"
+      }
+    ],
+    "outcomeName": "Milton Keynes Dons (-1.5)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 21:30, Maidenhead × Milton Keynes Dons",
+    "previousOdd": "1.90",
+    "promoOdd": "2.01"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Maidenhead",
+        "imageSrc": "taxonomyicons/competitors/90658-164w"
+      },
+      {
+        "name": "Milton Keynes Dons",
+        "imageSrc": "taxonomyicons/competitors/90564-164w"
+      }
+    ],
+    "outcomeName": "Over 2.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 21:30, Maidenhead × Milton Keynes Dons",
+    "previousOdd": "1.59",
+    "promoOdd": "1.67"
+  },
+  {
+    "competitors": [
+      {
+        "name": "SKU Amstetten",
+        "imageSrc": "taxonomyicons/competitors/90510-164w"
+      },
+      {
+        "name": "SK Artis Brno",
+        "imageSrc": "taxonomyicons/competitors/88967-164w"
+      }
+    ],
+    "outcomeName": "SK Artis Brno (0)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 18:00, SKU Amstetten × SK Artis Brno",
+    "previousOdd": "1.58",
+    "promoOdd": "1.65"
+  },
+  {
+    "competitors": [
+      {
+        "name": "SKU Amstetten",
+        "imageSrc": "taxonomyicons/competitors/90510-164w"
+      },
+      {
+        "name": "SK Artis Brno",
+        "imageSrc": "taxonomyicons/competitors/88967-164w"
+      }
+    ],
+    "outcomeName": "Under 3.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 18:00, SKU Amstetten × SK Artis Brno",
+    "previousOdd": "1.48",
+    "promoOdd": "1.55"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Buxton",
+        "imageSrc": "taxonomyicons/competitors/90662-164w"
+      },
+      {
+        "name": "Ashton United",
+        "imageSrc": "taxonomyicons/competitors/90690-164w"
+      }
+    ],
+    "outcomeName": "Ashton United (+1.5)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 21:45, Buxton × Ashton United",
+    "previousOdd": "1.79",
+    "promoOdd": "1.88"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Buxton",
+        "imageSrc": "taxonomyicons/competitors/90662-164w"
+      },
+      {
+        "name": "Ashton United",
+        "imageSrc": "taxonomyicons/competitors/90690-164w"
+      }
+    ],
+    "outcomeName": "Over 2.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 21:45, Buxton × Ashton United",
+    "previousOdd": "1.53",
+    "promoOdd": "1.60"
+  },
+  {
+    "competitors": [
+      {
+        "name": "FC Cincinnati",
+        "imageSrc": "taxonomyicons/competitors/64956-164w"
+      },
+      {
+        "name": "Burnley",
+        "imageSrc": "taxonomyicons/competitors/90259-164w"
+      }
+    ],
+    "outcomeName": "Under 4.5",
+    "marketName": "Total",
+    "eventInfo": "Tomorrow, 02:30, FC Cincinnati × Burnley",
+    "previousOdd": "1.22",
+    "promoOdd": "1.25"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Weiz",
+        "imageSrc": "taxonomyicons/competitors/155511-164w"
+      },
+      {
+        "name": "ASK Koflach",
+        "imageSrc": "taxonomyicons/competitors/141048-164w"
+      }
+    ],
+    "outcomeName": "Weiz (-1.5)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 20:00, Weiz × ASK Koflach",
+    "previousOdd": "1.92",
+    "promoOdd": "2.02"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Neftchi Baku",
+        "imageSrc": "taxonomyicons/competitors/90545-164w"
+      },
+      {
+        "name": "Radnicki Nis",
+        "imageSrc": "taxonomyicons/competitors/89587-164w"
+      }
+    ],
+    "outcomeName": "Neftchi Baku (0)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 18:30, Neftchi Baku × Radnicki Nis",
+    "previousOdd": "1.60",
+    "promoOdd": "1.70"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Neftchi Baku",
+        "imageSrc": "taxonomyicons/competitors/90545-164w"
+      },
+      {
+        "name": "Radnicki Nis",
+        "imageSrc": "taxonomyicons/competitors/89587-164w"
+      }
+    ],
+    "outcomeName": "Under 3.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 18:30, Neftchi Baku × Radnicki Nis",
+    "previousOdd": "1.52",
+    "promoOdd": "1.59"
+  },
+  {
+    "competitors": [
+      {
+        "name": "NK Radomlje",
+        "imageSrc": "taxonomyicons/competitors/59805-164w"
+      },
+      {
+        "name": "NK Varazdin",
+        "imageSrc": "taxonomyicons/competitors/89012-164w"
+      }
+    ],
+    "outcomeName": "NK Radomlje (+1)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 19:00, NK Radomlje × NK Varazdin",
+    "previousOdd": "1.63",
+    "promoOdd": "1.70"
+  },
+  {
+    "competitors": [
+      {
+        "name": "NK Radomlje",
+        "imageSrc": "taxonomyicons/competitors/59805-164w"
+      },
+      {
+        "name": "NK Varazdin",
+        "imageSrc": "taxonomyicons/competitors/89012-164w"
+      }
+    ],
+    "outcomeName": "Under 3.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 19:00, NK Radomlje × NK Varazdin",
+    "previousOdd": "1.50",
+    "promoOdd": "1.57"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Sturm Graz II",
+        "imageSrc": "taxonomyicons/competitors/144223-164w"
+      },
+      {
+        "name": "ND Beltinci",
+        "imageSrc": "taxonomyicons/competitors/96791-164w"
+      }
+    ],
+    "outcomeName": "ND Beltinci (0)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 18:00, Sturm Graz II × ND Beltinci",
+    "previousOdd": "1.70",
+    "promoOdd": "1.78"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Sturm Graz II",
+        "imageSrc": "taxonomyicons/competitors/144223-164w"
+      },
+      {
+        "name": "ND Beltinci",
+        "imageSrc": "taxonomyicons/competitors/96791-164w"
+      }
+    ],
+    "outcomeName": "Under 4.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 18:00, Sturm Graz II × ND Beltinci",
+    "previousOdd": "1.86",
+    "promoOdd": "1.96"
+  },
+  {
+    "competitors": [
+      {
+        "name": "SV Leobendorf",
+        "imageSrc": "taxonomyicons/competitors/94670-164w"
+      },
+      {
+        "name": "Floridsdorfer AC",
+        "imageSrc": "taxonomyicons/competitors/89320-164w"
+      }
+    ],
+    "outcomeName": "SV Leobendorf (+1)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 19:30, SV Leobendorf × Floridsdorfer AC",
+    "previousOdd": "1.88",
+    "promoOdd": "1.98"
+  },
+  {
+    "competitors": [
+      {
+        "name": "SV Leobendorf",
+        "imageSrc": "taxonomyicons/competitors/94670-164w"
+      },
+      {
+        "name": "Floridsdorfer AC",
+        "imageSrc": "taxonomyicons/competitors/89320-164w"
+      }
+    ],
+    "outcomeName": "Under 3.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 19:30, SV Leobendorf × Floridsdorfer AC",
+    "previousOdd": "1.50",
+    "promoOdd": "1.57"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Moyola Park FC",
+        "imageSrc": "taxonomyicons/competitors/82719-164w"
+      },
+      {
+        "name": "Ballymena United FC",
+        "imageSrc": "taxonomyicons/competitors/89271-164w"
+      }
+    ],
+    "outcomeName": "Moyola Park FC (+2)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 21:30, Moyola Park FC × Ballymena United FC",
+    "previousOdd": "1.71",
+    "promoOdd": "1.79"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Moyola Park FC",
+        "imageSrc": "taxonomyicons/competitors/82719-164w"
+      },
+      {
+        "name": "Ballymena United FC",
+        "imageSrc": "taxonomyicons/competitors/89271-164w"
+      }
+    ],
+    "outcomeName": "Under 4",
+    "marketName": "Total",
+    "eventInfo": "Today, 21:30, Moyola Park FC × Ballymena United FC",
+    "previousOdd": "1.49",
+    "promoOdd": "1.56"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Wiener Viktoria",
+        "imageSrc": "taxonomyicons/competitors/58585-164w"
+      },
+      {
+        "name": "SK Vorwarts Steyr",
+        "imageSrc": "taxonomyicons/competitors/90566-164w"
+      }
+    ],
+    "outcomeName": "Wiener Viktoria (0)",
+    "marketName": "Handicap",
+    "eventInfo": "Today, 20:00, Wiener Viktoria × SK Vorwarts Steyr",
+    "previousOdd": "1.73",
+    "promoOdd": "1.82"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Wiener Viktoria",
+        "imageSrc": "taxonomyicons/competitors/58585-164w"
+      },
+      {
+        "name": "SK Vorwarts Steyr",
+        "imageSrc": "taxonomyicons/competitors/90566-164w"
+      }
+    ],
+    "outcomeName": "Under 4",
+    "marketName": "Total",
+    "eventInfo": "Today, 20:00, Wiener Viktoria × SK Vorwarts Steyr",
+    "previousOdd": "1.58",
+    "promoOdd": "1.66"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Worcester City",
+        "imageSrc": "taxonomyicons/competitors/97390-164w"
+      },
+      {
+        "name": "Malvern Town",
+        "imageSrc": "taxonomyicons/competitors/1420108-164w"
+      }
+    ],
+    "outcomeName": "Under 3.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 21:45, Worcester City × Malvern Town",
+    "previousOdd": "1.41",
+    "promoOdd": "1.47"
+  },
+  {
+    "competitors": [
+      {
+        "name": "Oxford City",
+        "imageSrc": "taxonomyicons/competitors/90632-164w"
+      },
+      {
+        "name": "Briton Ferry",
+        "imageSrc": "taxonomyicons/competitors/62509-164w"
+      }
+    ],
+    "outcomeName": "Over 2.5",
+    "marketName": "Total",
+    "eventInfo": "Today, 21:30, Oxford City × Briton Ferry",
+    "previousOdd": "1.50",
+    "promoOdd": "1.57"
+  }
+]

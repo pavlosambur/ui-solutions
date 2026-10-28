@@ -1,3 +1,3 @@
-export default type OutcomesProps2 = {
+export type OutcomesProps2 = {
     count: number;
 };
